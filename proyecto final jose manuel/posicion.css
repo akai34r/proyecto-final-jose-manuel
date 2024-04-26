@@ -1,0 +1,33 @@
+.caja-1
+{
+	position: relative;
+	left: 300px;
+	top: 200px;
+}
+.caja-2
+{
+	position:relative;
+	left: 500px;
+	top: 200px;
+}
+.caja-3
+{
+	position: relative;
+	left: 900px;
+	top: 200px;
+}
+.caja-4
+{
+	position: relative;
+	left: 300px;
+	top: 600px;
+}
+.texto{
+	position: absolute;
+	right: 175px;
+	
+}
+.cabecera{
+position: fixed;
+text-align: center;
+}
